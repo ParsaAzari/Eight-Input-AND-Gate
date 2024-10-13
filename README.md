@@ -69,7 +69,7 @@ To compile and simulate the VHDL code, you can use the **VHDPlus IDE**. Follow t
 1. Install the VHDPlus IDE by following the instructions at the official documentation:  
    [VHDPlus IDE Installation Guide](https://vhdplus.com/docs/getstarted/#install-vhdplus-ide)
    
-2. After installing the software, open the project file (`FullAdderCircuit.vhdpproj`) in the VHDPlus IDE.
+2. After installing the software, open the project file (`EightInputANDGate.vhdpproj`) in the VHDPlus IDE.
 
 3. Compile the project by using the compile button or the appropriate option within the IDE.
 
