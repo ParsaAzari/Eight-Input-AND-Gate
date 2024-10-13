@@ -3,7 +3,7 @@
 ## Description
 This repository contains the VHDL implementation of an Eight-Input AND Gate. The circuit computes the logical AND of eight input signals, producing a single output signal that is true only when all inputs are true.
 
-## Entity and Architecture
+## Entity
 Entity
 
 The entity declaration specifies the inputs and outputs of the Eight-Input AND Gate, including an 8-bit vector for input signals and a single output for the AND result.
