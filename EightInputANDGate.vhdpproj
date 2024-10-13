@@ -1,0 +1,8 @@
+﻿<Project>
+  <ItemGroup>
+    <File Include="EightInputANDGate.vhd" />
+  </ItemGroup>
+  <PropertyGroup>
+    <HardwareStartPath>EightInputANDGate.vhd</HardwareStartPath>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,10 @@
+# auto-generated
+[Libraries]
+work.files = [
+	'EightInputANDGate.vhd'
+]
+[libraries.work]
+files = [
+	'EightInputANDGate.vhd'
+]
+# auto-generated-end
